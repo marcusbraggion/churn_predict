@@ -29,12 +29,13 @@ In addition, you will need to provide a report reporting the performance of your
 
 # 3.0 Delivarables
 
-What is TopBank's current Churn rate? How does it change monthly?
-How does the model perform in classifying customers as churns?
-What is the expected return, in terms of revenue, if the company uses its model to avoid customer churn?
+1.0 What is TopBank's current Churn rate? How does it change monthly?
+2.0 How does the model perform in classifying customers as churns?
+3.0 What is the expected return, in terms of revenue, if the company uses its model to avoid customer churn?
+
 A possible action to prevent the customer from churn is to offer a discount coupon, or some other financial incentive for him to renew his contract for another 12 months.
 
-Which customers would you give the financial incentive to and what would that value be, in order to maximize ROI (Return on Investment). Remembering that the sum of the incentives cannot exceed R$10,000.00
+4.0 Which customers would you give the financial incentive to and what would that value be, in order to maximize ROI (Return on Investment). Remembering that the sum of the incentives cannot exceed R$10,000.00
 
 # 4.0 The data
 The dataset that will be used to create the solution for TopBottom is available on the Kaggle platform. This is the link: ChurnDataset
